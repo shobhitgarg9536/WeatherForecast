@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="city">City Name</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind">Wind</string>
+    <string name="wind_degree">Wind Degree</string>
+    <string name="weather_description">Weather Description</string>
+    <string name="temp">Temp</string>
+    <string name="last_update">Last Update</string>
+    <string name="temp_min">Min</string>
+    <string name="temp_max">Max</string>
+    <string name="date">Date</string>
+    <string name="rain">Rain</string>
+    <string name="snow">Snow</string>
+    <string name="cloud">Cloud</string>
+
+    <string name="API_KEY">e9d8bcca852fb7d1e81c7850bcc746c5</string>
+
+    <string name="s_rain">Rain:\t</string>
+    <string name="s_snow">Snow:\t</string>
+    <string name="s_cloud">Cloud:\t</string>
+    <string name="s_temp_min">Min:\t</string>
+    <string name="s_temp_max">Max:\t</string>
+    <string name="s_humidity">Humidity:\t</string>
+    <string name="s_pressure">Pressure:\t</string>
+    <string name="s_wind">Wind Speed:\t</string>
+    <string name="s_last_update">Last Update:\t</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
